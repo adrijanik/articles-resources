@@ -1,2 +1,2 @@
 # articles-resources
-The repo contains images and code used to write articles.
+The repo contains notebook with code and data used to write article.
